@@ -9,11 +9,11 @@ The studio may be able to leverage the insight to decide on what genres to inves
 This project uses descriptive analysis, statistical analysis applying methods such as linear regression to gain insight into the data. This provides useful recommendations to the studio on which niches to invest in.
 ## Results
 Genres such as Adventure,  Action, and Comedy had the highest revenue returns.
-![revenue_by_genre](./revenuebygenre.png)
+![revenue_by_genre](./images/revenuebygenre.png)
 Genres such as Adventure,  Action, and Fantasy and Animation had the highest returns on input.
-![roi_by_genre](./roi.png)
+![roi_by_genre](./images/roi.png)
 Most titles align with a 90–120-minute preference. 
-![runtime_preference](./runtime.png)
+![runtime_preference](./images/runtime.png)
 
 ## Conclusions
 • **High Revenue Genres**: Adventure, Fantasy, and Sci-Fi generate higher revenues.
